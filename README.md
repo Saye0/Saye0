@@ -6,20 +6,22 @@
 <img align="right" height="150rem" alt="GIF" src="https://miro.medium.com/max/1080/1*VFYWXlag5Sxqgpq7EHJ7CA.gif" />
 
 
- I’m a full stack developer with a focus on front-end and back-end web technologies. Here’s what I work with:
+# Hi there 👋
 
-Front-end:
+I’m a full stack developer with a focus on front-end and back-end web technologies. Here’s what I work with:
 
-HTML, CSS, JavaScript
-React.js, Next.js
-Tailwind CSS, Material UI
-Back-end:
+## Front-end:
+- HTML, CSS, JavaScript
+- React.js, Next.js
+- Tailwind CSS, Material UI
 
-Node.js, Express.js
-REST APIs, Axios, Fetch API
-Database:
+## Back-end:
+- Node.js, Express.js
+- REST APIs, Axios, Fetch API
 
-MongoDB, Cloudinary
+## Database:
+- MongoDB, Cloudinary
+
 I enjoy building responsive, user-friendly web applications and am always looking to learn more and take on new challenges! Feel free to explore my projects and get in touch!
 
  <br>
