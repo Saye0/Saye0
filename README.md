@@ -6,7 +6,7 @@
 <img align="right" height="150rem" alt="GIF" src="https://miro.medium.com/max/1080/1*VFYWXlag5Sxqgpq7EHJ7CA.gif" />
 
 
-# Hi there 👋
+
 
 I’m a full stack developer with a focus on front-end and back-end web technologies. Here’s what I work with:
 
