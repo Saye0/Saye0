@@ -10,7 +10,7 @@
 
 I’m a full stack developer with a focus on front-end and back-end web technologies. Here’s what I work with:
 
-## Front-end:
+Front-end:
 - HTML, CSS, JavaScript
 - React.js, Next.js
 - Tailwind CSS, Material UI
