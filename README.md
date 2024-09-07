@@ -1,7 +1,10 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang550.github.io/profile/">Saye</a></h2>
-<p align="center">
+
+
+
  
 </p>
+
 
 <img align="right" height="150rem" alt="GIF" src="https://miro.medium.com/max/1080/1*VFYWXlag5Sxqgpq7EHJ7CA.gif" />
 
@@ -9,21 +12,24 @@
 
 a Full Stack Web Developer with expertise in both frontend and backend technologies. My skillset includes 
 
+
 -HTML, CSS, JavaScript, React.js for frontend development</br>
 -Node.js, Express.js for backend.
 
+
 I work with MongoDB and SQL for database management and use Tailwind CSS and Material UI for building responsive and modern user interfaces. I have experience in creating e-commerce sites, single-page applications, and personal websites. I'm passionate about exploring new technologies and contributing to open-source projects. Let's connect! 🌟
+
+
+
+
+
+
 
 *****
 
- <br>
-
-
-
-
-<br>
-
 💻 **My Personal Website:** [Saye.dev](https://sayeorle.vercel.app/) – Explore my web development projects, technical blog posts, and contributions to open-source projects.
+
+*****
 
 **Languages and Tools**
 
