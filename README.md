@@ -6,10 +6,13 @@
 <img align="right" height="150rem" alt="GIF" src="https://miro.medium.com/max/1080/1*VFYWXlag5Sxqgpq7EHJ7CA.gif" />
 
 
-- 👨🏽‍💻  I’m currently working on something cool :wink:.
-- 🌱  I’m currently learning NodeJS
-- 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: 
+
+a Full Stack Web Developer with expertise in both frontend and backend technologies. My skillset includes 
+
+-HTML, CSS, JavaScript, React.js for frontend development</br>
+-Node.js, Express.js for backend.
+
+I work with MongoDB and SQL for database management and use Tailwind CSS and Material UI for building responsive and modern user interfaces. I have experience in creating e-commerce sites, single-page applications, and personal websites. I'm passionate about exploring new technologies and contributing to open-source projects. Let's connect! 🌟
 
 *****
 
