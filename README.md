@@ -40,6 +40,14 @@ I work with MongoDB and SQL for database management and use Tailwind CSS and Mat
 <br />
 
 
-<code>
-<img  height="150rem" width="100%" alt="GIF" src="https://www.freybergdigital.co.nz/uploads/1/1/7/3/117375452/340271881_orig.gif" />
-</code>
+</br>
+<!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
+<h2 align="center">My Projects</h2>
+
+###
+
+Project Demo       |Libraries and Technologies I use     |Project Preview   
+:-------------------------|-------------------------|-------------------------
+'  <h3>[Repo](https://github.com/Saye0/Basic-Projects/tree/main/landing-pabe1)</h3> | react, lucide-react, tailwindcss,postcss,autoprefixer, vite |![code-fixer](https://github.com/user-attachments/assets/ddbe5f6b-d7be-4384-b45c-842385cdf7f9)
+
+
