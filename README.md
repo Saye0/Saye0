@@ -15,7 +15,7 @@ I have experience in creating e-commerce sites, single-page applications, and pe
 
 ## Personal Website
 
-💻 **My Personal Website:** [Saye.dev](https://sayeorle.vercel.app/) – Explore my web development projects, technical blog posts, and contributions to open-source projects.
+💻 **My Personal Website:** <a href="https://sayeorle.vercel.app/" target="_blank">Saye.dev</a> – Explore my web development projects, technical blog posts, and contributions to open-source projects.
 
 ## Languages and Tools
 
