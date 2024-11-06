@@ -20,7 +20,7 @@ I have experience in creating e-commerce sites, single-page applications, and pe
 ## Languages and Tools
 
 <p align="center">
-     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,materialui,nodejs,express,git,mongodb,redis,postman,vite">
+     <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,materialui,nodejs,express,git,mongodb,redis,postman,vite">
 </p>
 
 ## My Projects
