@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://shwetang550.github.io/profile/">Saye</a></h1>
 
 <p align="center">
-  <img align="right" height="150rem" alt="GIF" src="https://miro.medium.com/max/1080/1*VFYWXlag5Sxqgpq7EHJ7CA.gif" />
+  <img align="right" height="150rem" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR1OHo2Z3JpYXl6djZmYXd0czR2dWphcnJ1c3Z4Y3I4bDRhYW1sOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" />
 </p>
 
 I'm a Full Stack Web Developer with expertise in both frontend and backend technologies. My skillset includes:
