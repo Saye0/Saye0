@@ -1,27 +1,20 @@
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://shwetang550.github.io/profile/">Saye</a></h1>
+<h1 align="center">Saye</h1>
 
-<p align="center">
-  <img align="right" height="150rem" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR1OHo2Z3JpYXl6djZmYXd0czR2dWphcnJ1c3Z4Y3I4bDRhYW1sOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" />
-</p>
-
-I'm a Full Stack Web Developer with expertise in both frontend and backend technologies. My skillset includes:
-
-- Frontend: HTML, CSS, JavaScript, React.js
-- Backend: Node.js, Express.js
-- Databases: MongoDB,Redis
-- UI Libraries: Tailwind CSS, Material UI
-
-I have experience in creating e-commerce sites, single-page applications, and personal websites. I'm passionate about exploring new technologies and contributing to open-source projects. Let's connect! 🌟
-
-## Personal Website
-
-💻 **My Personal Website:** <a href="https://sayeorle.vercel.app/" target="_blank">Saye.dev</a> – Explore my web development projects, technical blog posts, and contributions to open-source projects.
+<table>
+<tr>
+<td width="70%">
 
 ## Languages and Tools
-
-<p align="center">
+<p align="left">
      <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,materialui,nodejs,express,git,mongodb,redis,postman,vite,lua,blender,notion,unity,c#">
 </p>
+
+</td>
+<td width="30%">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR1OHo2Z3JpYXl6djZmYXd0czR2dWphcnJ1c3Z4Y3I4bDRhYW1sOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
+</td>
+</tr>
+</table>
 
 ## My Projects
 
